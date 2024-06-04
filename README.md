@@ -1,17 +1,23 @@
 ### Hi there 👋, my name is Karina!
 #### I am web developer from Israel!
-![I am web developer!](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-
-I made this project for a Stretch and Dance Studio in Russian language.
+<br>
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVkZGpwNnZvcHgzeHgxd3NwaWxocmNrMXhpa24xZTJoYXlpMjVxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGae0VwAaJ9MwJiuP8/giphy.gif" width="600" height="300"/>
+</div>
+<br>
+It is a web-site for a Stretch and Dance Studio in Russian language.
 This was my final project in the HTML/CSS course. 
-
+<br>
+<br>
 Skills: REACT / JS / HTML / CSS
-
+<br>
+<br>
 - 🌱 I’m currently learning React/Redux/Node. 
+<br>
 - 📫 How to reach me: My email: Karina.radkevich.06@gmail.com 
+<br>
 - ⚡ Fun fact:  I have difficulty with creativity, but I am developing this skill. 
-
-
+ 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KarinaRadkevich)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/KarinaRadkevich/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaRadkevich)](https://github.com/anuraghazra/github-readme-stats)
