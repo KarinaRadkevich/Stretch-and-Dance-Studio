@@ -2,7 +2,7 @@
 #### I am web developer from Israel!
 <br>
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVkZGpwNnZvcHgzeHgxd3NwaWxocmNrMXhpa24xZTJoYXlpMjVxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGae0VwAaJ9MwJiuP8/giphy.gif" width="600" height="300"/>
+  <img src="page.png" width="600" height="300"/>
 </div>
 <br>
 It is a web-site for a Stretch and Dance Studio in Russian language.
